@@ -1,8 +1,9 @@
 #!/bin/bash
 
 # AUTHOR:
-#   github.com/ScriptAutomate
-#   github.com/ScriptAutomate/pi-scanography
+#   Code Author: github.com/ScriptAutomate
+#   Code Repo: github.com/ScriptAutomate/pi-scanography
+#   Blog Post: https://www.cspenzichwrite.com/scanography/
 # DESCRIPTION:
 #   - This is a simple script that creates new scans
 #   easily with scanimage, from SANE, using an existing
