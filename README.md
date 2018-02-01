@@ -2,7 +2,7 @@
 Simple script(s) for using USB-powered scanners with the Raspberry Pi. This was created after reading [this cool article](https://blog.nextthing.co/a-scanner-pocketc-h-i-p/) about someone using a pocketCHIP with `scanimage`. The article has a broken-link to the GitHub repo, but you can find [their code/tutorial here](https://github.com/goatspit/pocketCHIP-photography).
 
 ## More In-Depth Tutorial for This Project
-A more in-depth tutorial of what I did to go mobile with a Raspberry Pi 3, for scanography, [can be found here](https://cspenzichwrite.com/scanography).
+A more in-depth tutorial of what I did to go mobile with a Raspberry Pi 3, for scanography, [can be found here](https://www.cspenzichwrite.com/scanography/).
 
 ## Basic Directions
 
